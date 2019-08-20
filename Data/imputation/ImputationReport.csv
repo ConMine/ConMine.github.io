@@ -1,0 +1,3 @@
+"","Trait","Missing","PhylogeneticClustering","StartingMean","ImputedMean","MeanDiff","MissingWarning","PhyloBias","TraiBias"
+"1","Lifespan_Years",56.0606060606061,0.670840489285734,1.338880263985,1.29956736811795,2.93625180119096,"Extremely high missingness","Low phylogenetic bias","Moderate trait bias"
+"2","Bodymass_g",56.3636363636364,0.645645782009012,2.25720780826777,2.14914690016791,4.7873708262062,"Extremely high missingness","Low phylogenetic bias","Moderate trait bias"
